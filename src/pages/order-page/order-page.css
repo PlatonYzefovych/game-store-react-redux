@@ -1,0 +1,4 @@
+.order-page__total_price{
+    display: flex;
+    justify-content: flex-end;
+}
